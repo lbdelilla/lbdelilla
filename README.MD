@@ -1,6 +1,6 @@
 # A FEW THINGS TO KNOW ABOUT ME!
 
-- I have a degree in Social Communications with emphasis en advertising 
+- I have a degree in Social Communications with emphasis in advertising 
 - I am studying to become a Web developer 
 - Love learning new things :heart:
 
