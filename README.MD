@@ -25,6 +25,8 @@ Love learning new things :heart:<br>
 <a href="#">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/js.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
   </a>  
+</p>
+<p align="center">
  <a href="#">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/frameworks/react.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
   </a>
