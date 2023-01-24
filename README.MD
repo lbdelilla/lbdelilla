@@ -28,6 +28,12 @@ Love learning new things :heart:<br>
  <a href="#">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/frameworks/react.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
   </a>
+  <a href="#">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/python.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+  </a>
+  <a href="#">  
+     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/tools/visualstudio_code.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+  </a>
 </p><br>
   
    <h4 align="center"> Find me! </h4> <br>
