@@ -63,4 +63,8 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="50" height="50" />
      </a>
  </p>
- 
+      
+<br>      
+<p align="center">
+| <a href="https://github.com/lbdelilla/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=lbdelilla&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Lucia´s github stats" /></a> | <a href="https://github.com/lbdelilla/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lbdelilla&layout=compact&theme=radical&hide_border=true" /></a> |
+</p>
