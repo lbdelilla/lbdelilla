@@ -3,43 +3,43 @@
 
 <p align="center">
 <a href="#">
-    <img src="https://icongr.am/devicon/html5-original.svg?size=50&color=fffffff" alt="html5 badge" style="vertical-align:top margin:6px 4px">
+    <img src="https://icongr.am/devicon/html5-original.svg?size=50&color=fffffff" width="40" height="40" alt="html5 badge" style="vertical-align:top margin:6px 4px">
   </a>  
 <a href="#">
-    <img src="https://icongr.am/devicon/css3-original.svg?size=50&color=ffffff" alt="css3 badge" style="vertical-align:top margin:6px 4px">
+    <img src="https://icongr.am/devicon/css3-original.svg?size=50&color=ffffff" width="40" height="40" alt="css3 badge" style="vertical-align:top margin:6px 4px">
   </a>  
 <a href="#">
-    <img src="https://icongr.am/devicon/bootstrap-plain.svg?size=50&color=6d06b1" alt="bootstrap badge" style="vertical-align:top margin:6px 4px">
+    <img src="https://icongr.am/devicon/bootstrap-plain.svg?size=50&color=6d06b1" width="40" height="40" alt="bootstrap badge" style="vertical-align:top margin:6px 4px">
   </a>  
 <a href="#">
-    <img src="https://icongr.am/devicon/javascript-original.svg?size=50&color=ffffff" alt="javascript badge" style="vertical-align:top margin:6px 4px">
+    <img src="https://icongr.am/devicon/javascript-original.svg?size=50&color=ffffff" width="40" height="40" alt="javascript badge" style="vertical-align:top margin:6px 4px">
   </a>  
  <a href="#">
-    <img src="https://icongr.am/devicon/react-original.svg?size=50&color=6d06b1" alt="react badge" style="vertical-align:top margin:6px 4px">
+    <img src="https://icongr.am/devicon/react-original.svg?size=50&color=6d06b1" width="40" height="40" alt="react badge" style="vertical-align:top margin:6px 4px">
   </a>
   <a href="#">
-    <img src="https://icongr.am/devicon/python-original.svg?size=50&color=6d06b1" alt="python badge" style="vertical-align:top margin:6px 4px">
+    <img src="https://icongr.am/devicon/python-original.svg?size=50&color=6d06b1" width="40" height="40" alt="python badge" style="vertical-align:top margin:6px 4px">
   </a>
   <a href="#">  
-     <img src="https://icongr.am/simple/flask.svg?size=50&color=ffffff&colored=false" alt="flask badge" style="vertical-align:top margin:6px 4px">
+     <img src="https://icongr.am/simple/flask.svg?size=50&color=ffffff&colored=false" width="40" height="40" alt="flask badge" style="vertical-align:top margin:6px 4px">
   </a
 
 </p><br>
 <p align="center">
   <a href="#">
-    <img src="https://icongr.am/simple/github.svg?size=50&color=ffffff&colored=false" alt="github badge" style="vertical-align:top margin:6px 4px">
+    <img src="https://icongr.am/simple/github.svg?size=50&color=ffffff&colored=false" width="40" height="40" alt="github badge" style="vertical-align:top margin:6px 4px">
   </a>
   <a href="#">
-    <img src="https://icongr.am/simple/git.svg?size=50&color=cb4848&colored=false" alt="git badge" style="vertical-align:top margin:6px 4px">
+    <img src="https://icongr.am/simple/git.svg?size=50&color=cb4848&colored=false" width="40" height="40" alt="git badge" style="vertical-align:top margin:6px 4px">
   </a>
   <a href="#">
-    <img src="https://icongr.am/simple/gitpod.svg?size=50&color=ff9500&colored=false" alt="gitpod badge" style="vertical-align:top margin:6px 4px">
+    <img src="https://icongr.am/simple/gitpod.svg?size=50&color=ff9500&colored=false" width="40" height="40" alt="gitpod badge" style="vertical-align:top margin:6px 4px">
   </a>
   <a href="#">
-    <img src="https://icongr.am/simple/visualstudio.svg?size=50&color=007bff&colored=false" alt="visualstudio badge" style="vertical-align:top margin:6px 4px">
+    <img src="https://icongr.am/simple/visualstudio.svg?size=50&color=007bff&colored=false" width="40" height="40" alt="visualstudio badge" style="vertical-align:top margin:6px 4px">
   </a> 
    <a href="#">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"  alt="figma badge" width="50" height="50" style="vertical-align:top margin:6px 4px">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"  alt="figma badge" width="40" height="40" style="vertical-align:top margin:6px 4px">
   </a>
       </p>
   <br>
@@ -61,10 +61,10 @@
       
  <p align="center">
      <a align="center" href="https://www.linkedin.com/in/luciabelen/ ">
-         <img src="https://icongr.am/devicon/linkedin-original.svg?size=50&color=d400ff"  alt="linkedin badge" style="vertical-align:top margin:6px 4px">
+         <img src="https://icongr.am/devicon/linkedin-original.svg?size=50&color=d400ff" width="40" height="40" alt="linkedin badge" style="vertical-align:top margin:6px 4px">
      </a>
      <a href="mailto:lbdelilla@gmail.com" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="50" height="50" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="40" height="40" />
      </a>
  </p>
       
