@@ -52,6 +52,10 @@
  <br>
       
 <p align="center">
+    En este momento estoy comenzando un bootcamp de <b> UX/UI </b>
+</p>
+      <br>
+<p align="center">
      <b>Contáctame!</b>
 </p>
       
