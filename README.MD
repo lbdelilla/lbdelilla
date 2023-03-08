@@ -1,17 +1,9 @@
+<p align="center"><a href=""><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./assets/me-git-header.png" /></a></p>
+
+<br />
 
 
-<h3 align="center"> A FEW THINGS TO KNOW ABOUT ME! </h3> <br>
 
-
-<p align="center">
-    <a href="#">
-        <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/pronouns/sheher.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
-    </a> <br>  
-<br>I have a degree in Social Communications with emphasis in advertising <br>
-I am studying to become a Web developer <br>
-Love learning new things :heart:<br>
-</p>
-<h4 align="center">I´m learning</h4> <br>
 <p align="center">
 <a href="#">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/html.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
