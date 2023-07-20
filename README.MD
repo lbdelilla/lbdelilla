@@ -1,7 +1,5 @@
 <p align="center"><a href=""><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./assets/me-git-header.png" /></a></p>
 
-<h1 align="center">Full Stack Developer</h1>
-
 
 
 
@@ -50,28 +48,22 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=lbdelilla&label=Profile%20views&color=0e75b6&style=flat" alt="lbdelilla" /> </p>
 
 
-                                            - 🔭 I’m currently working on **new projects**
+                                    - 🔭 I’m currently working on **new projects**
 
-                                            - 👯 I’m looking to collaborate on **anything that i can learn from!**
+                                    - 👯 I’m looking to collaborate on **anything that i can learn from!**
 
-                                            - 🌱 I’m currently learning **Node Js & Typescript**
+                                    - 🌱 I’m currently learning **Node Js & Typescript**
 
-                                            - 👨‍💻 All my finished projects are available at [www.luciabelen.dev](www.luciabelen.dev)
+                                    - 👨‍💻 All my finished projects are available at [www.luciabelen.dev](www.luciabelen.dev)
 
-                                            - 📫 How to reach me **lbdelilla@gmail.com**
+                                    - 📫 How to reach me **lbdelilla@gmail.com**
 
 
   <br>
       
-  
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/luciabelen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luciabelen" height="30" width="40" /></a>
-</p>
-      
      
 <p align="center">
-     <b><h3 align="left">Connect with me:</h3></b>
+     <b><h3>Connect with me:</h3></b>
 </p>
       
  <p align="center">
