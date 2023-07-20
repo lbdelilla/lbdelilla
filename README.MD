@@ -25,7 +25,7 @@
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" title="Python"/>      </a> 
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
-      <img src="./assets/flask.png" alt="flask" width="40" height="40" title="Flask"/> 
+      <img src="./assets/flask.png" alt="flask" width="50" height="50" title="Flask"/> 
 </a>
    <a href="https://jestjs.io" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40" title="Jest Js"/> 
@@ -51,7 +51,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40" title="Photoshop"/> 
     </a> 
     <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
-        <img src="./assets/nextjs-drupal.jpg" alt="nextjs" width="50" height="30" title="Next Js"/> 
+        <img src="./assets/nextjs.png" alt="nextjs" width="50" height="30" title="Next Js"/> 
     </a>
     <a href="https://postman.com" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" title="Postman"/> 
