@@ -73,6 +73,7 @@
   <br>
 
 <h3 align="center">🌱 Currently learning:</h3>
+<br>
 <p align="center"> 
 
    <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
@@ -92,7 +93,7 @@
 <p align="center">
      <b><h3 align="center">Connect with me:</h3></b>
 </p>
-      
+<br>      
  <p align="center">
      <a align="center" href="https://www.linkedin.com/in/luciabelen/" target="blank">
          <img src="https://icongr.am/devicon/linkedin-original.svg?size=50&color=d400ff" width="40" height="40" alt="linkedin badge" style="vertical-align:top margin:6px 4px" title="Linkedin">
