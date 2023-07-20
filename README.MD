@@ -57,10 +57,10 @@
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" title="Postman"/> 
     </a> 
       </p>
-
-
+<br>
+<br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=lbdelilla&label=Profile%20views&color=0e75b6&style=flat" alt="lbdelilla" /> </p>
-
+<br>
 <p align="center">
                                     - 🔭 I’m constanly working on new projects
 </p>
