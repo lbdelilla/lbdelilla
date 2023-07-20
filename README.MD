@@ -62,13 +62,13 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=lbdelilla&label=Profile%20views&color=0e75b6&style=flat" alt="lbdelilla" /> </p>
 
 <p align="center">
-                                    - 🔭 I’m currently working on **new projects**
+                                    - 🔭 I’m constanly working on new projects
 </p>
 <p align="center">
-                                    - 👯 I’m looking to collaborate on **anything that i can learn from!**
+                                    - 👯 I’m looking to collaborate on anything that i can learn from!
 </p>
 <p align="center">
-                                    - 👨‍💻 All my finished projects are available at [www.luciabelen.dev](www.luciabelen.dev)
+                                    - 👨‍💻 All my finished projects are available at <a href="www.luciabelen.dev" target="_blanck" rel="noreferrer">luciabelen.dev</a>
 </p>
   <br>
 
