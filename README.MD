@@ -51,7 +51,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40" title="Photoshop"/> 
     </a> 
     <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
-        <img src="./assets/nextjs.png" alt="nextjs" width="50" height="30" title="Next Js"/> 
+        <img src="./assets/nextjs.png" alt="nextjs" width="70" height="40" title="Next Js"/> 
     </a>
     <a href="https://postman.com" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" title="Postman"/> 
