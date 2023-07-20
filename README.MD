@@ -85,7 +85,7 @@
         <img src="./assets/node.png" alt="nodejs" width="50" height="40"title="Node JS"/> 
     </a> 
    <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"title="Mongo DB"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="30"title="Mongo DB"/>
  
 </p>
      
