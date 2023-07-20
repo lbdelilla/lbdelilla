@@ -83,7 +83,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" title="Flask"/> 
     </a>
   <a href="./assets/node.png" target="_blank" rel="noreferrer"> 
-        <img src="./assets/node.png" alt="nodejs" width="50" height="40"title="Node JS"/> 
+        <img src="./assets/node.png" alt="nodejs" width="60" height="40"title="Node JS"/> 
     </a> 
    <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="30"title="Mongo DB"/>
