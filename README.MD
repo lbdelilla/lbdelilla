@@ -25,8 +25,11 @@
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>      </a> 
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> 
-  </a>
+    <span class="tooltip"> 
+      <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> 
+       <span class="tooltiptext">Flask</span>
+   </span>
+</a>
    <a href="https://jestjs.io" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> 
     </a> 
@@ -60,9 +63,9 @@
 <h3 align="center">🌱 Currently learning:</h3>
 <p align="center"> 
 
-    <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
+   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
-    </a> 
+   </a> 
    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
     </a>
@@ -106,4 +109,35 @@
 | <a href="https://github.com/lbdelilla/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=lbdelilla&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Lucia´s github stats" /></a> | <a href="https://github.com/lbdelilla/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lbdelilla&layout=compact&theme=radical&hide_border=true" /></a> |
 </p>
 
+<style>
+  /* Style for the tooltip */
+  .tooltip {
+    position: relative;
+    display: inline-block;
+    /* Change the color of the flask icon to white */
+    filter: invert(1);
+  }
 
+  /* Tooltip text */
+  .tooltip .tooltiptext {
+    visibility: hidden;
+    width: 60px;
+    background-color: #000;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px;
+    position: absolute;
+    z-index: 1;
+    bottom: 125%;
+    left: 50%;
+    margin-left: -30px;
+    opacity: 0;
+    transition: opacity 0.3s;
+  }
+
+  .tooltip:hover .tooltiptext {
+    visibility: visible;
+    opacity: 1;
+  }
+</style>
