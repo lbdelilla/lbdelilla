@@ -4,45 +4,75 @@
 
 
 <p align="center">
-<a href="#">
-    <img src="https://icongr.am/devicon/html5-original.svg?size=50&color=fffffff" width="40" height="40" alt="html5 badge" style="vertical-align:top margin:6px 4px">
-  </a>  
-<a href="#">
-    <img src="https://icongr.am/devicon/css3-original.svg?size=50&color=ffffff" width="40" height="40" alt="css3 badge" style="vertical-align:top margin:6px 4px">
-  </a>  
-<a href="#">
-    <img src="https://icongr.am/devicon/bootstrap-plain.svg?size=50&color=6d06b1" width="40" height="40" alt="bootstrap badge" style="vertical-align:top margin:6px 4px">
-  </a>  
-<a href="#">
-    <img src="https://icongr.am/devicon/javascript-original.svg?size=50&color=ffffff" width="40" height="40" alt="javascript badge" style="vertical-align:top margin:6px 4px">
+   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+    </a> 
+   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+    </a>  
+   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
+    </a>
+ <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
+    </a> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+    </a> 
+     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>      </a> 
+  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> 
   </a>
- <a href="#">
-    <img src="https://icongr.am/devicon/react-original.svg?size=50&color=6d06b1" width="40" height="40" alt="react badge" style="vertical-align:top margin:6px 4px">
-  </a>
-  <a href="#">
-    <img src="https://icongr.am/devicon/python-original.svg?size=50&color=6d06b1" width="40" height="40" alt="python badge" style="vertical-align:top margin:6px 4px">
-  </a>
-  <a href="#">  
-     <img src="https://icongr.am/simple/flask.svg?size=50&color=ffffff&colored=false" width="40" height="40" alt="flask badge" style="vertical-align:top margin:6px 4px">
-  </a>
+   <a href="https://jestjs.io" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> 
+    </a> 
 </p>
 <p align="center">
-  <a href="#">
+  <a href="https://github.com/">
     <img src="https://icongr.am/simple/github.svg?size=50&color=ffffff&colored=false" width="40" height="40" alt="github badge" style="vertical-align:top margin:6px 4px">
   </a>
-  <a href="#">
-    <img src="https://icongr.am/simple/git.svg?size=50&color=cb4848&colored=false" width="40" height="40" alt="git badge" style="vertical-align:top margin:6px 4px">
-  </a>
-  <a href="#">
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+    </a> 
+  <a href="https://www.gitpod.io/">
     <img src="https://icongr.am/simple/gitpod.svg?size=50&color=ff9500&colored=false" width="40" height="40" alt="gitpod badge" style="vertical-align:top margin:6px 4px">
   </a>
-  <a href="#">
+  <a href="https://code.visualstudio.com/">
     <img src="https://icongr.am/simple/visualstudio.svg?size=50&color=007bff&colored=false" width="40" height="40" alt="visualstudio badge" style="vertical-align:top margin:6px 4px">
   </a> 
-   <a href="#">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"  alt="figma badge" width="40" height="40" style="vertical-align:top margin:6px 4px">
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
   </a>
+   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
+    </a> 
+    <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> 
+    </a>
+    <a href="https://postman.com" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
+    </a> 
       </p>
+<h3 align="center">🌱 Currently learning:</h3>
+<p align="center"> 
+
+    <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
+    </a> 
+   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
+    </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+    </a> 
+   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+ 
+</p>
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=lbdelilla&label=Profile%20views&color=0e75b6&style=flat" alt="lbdelilla" /> </p>
@@ -52,18 +82,14 @@
 
                                     - 👯 I’m looking to collaborate on **anything that i can learn from!**
 
-                                    - 🌱 I’m currently learning **Node Js & Typescript**
-
                                     - 👨‍💻 All my finished projects are available at [www.luciabelen.dev](www.luciabelen.dev)
-
-                                    - 📫 How to reach me **lbdelilla@gmail.com**
 
 
   <br>
       
      
 <p align="center">
-     <b><h3>Connect with me:</h3></b>
+     <b><h3 align="center">Connect with me:</h3></b>
 </p>
       
  <p align="center">
@@ -79,3 +105,5 @@
 <p align="center">
 | <a href="https://github.com/lbdelilla/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=lbdelilla&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Lucia´s github stats" /></a> | <a href="https://github.com/lbdelilla/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lbdelilla&layout=compact&theme=radical&hide_border=true" /></a> |
 </p>
+
+
