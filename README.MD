@@ -63,11 +63,12 @@
 
 <p align="center">
                                     - 🔭 I’m currently working on **new projects**
-
+</p>
+<p align="center">
                                     - 👯 I’m looking to collaborate on **anything that i can learn from!**
-
+</p>
+<p align="center">
                                     - 👨‍💻 All my finished projects are available at [www.luciabelen.dev](www.luciabelen.dev)
-
 </p>
   <br>
 
