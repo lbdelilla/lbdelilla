@@ -1,6 +1,6 @@
 <p align="center"><a href=""><img width="80%" alt="Hello, I'm Lucía Belén. a Full Stack Developer!" src="./assets/me-git-header.png" /></a></p>
 
-
+<br>
 
 
 <p align="center">
@@ -61,14 +61,14 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=lbdelilla&label=Profile%20views&color=0e75b6&style=flat" alt="lbdelilla" /> </p>
 
-
+<p align="center">
                                     - 🔭 I’m currently working on **new projects**
 
                                     - 👯 I’m looking to collaborate on **anything that i can learn from!**
 
                                     - 👨‍💻 All my finished projects are available at [www.luciabelen.dev](www.luciabelen.dev)
 
-
+</p>
   <br>
 
 <h3 align="center">🌱 Currently learning:</h3>
