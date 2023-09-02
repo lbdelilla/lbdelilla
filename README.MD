@@ -30,6 +30,12 @@
    <a href="https://jestjs.io" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40" title="Jest Js"/> 
     </a> 
+  <a href="https://www.mongodb.com/es" target="_blank" rel="noreferrer"> 
+        <img src="" alt="mongoDb" width="40" height="40" title="Mongo DB"/> 
+    </a> 
+  <a href="https://nodejs.org/es" target="_blank" rel="noreferrer"> 
+        <img src="https://nodejs.org/static/images/logo.svg" alt="node Js " width="40" height="40" title="Node Js"/> 
+    </a> 
 </p>
 <p align="center">
   <a href="https://github.com/">
@@ -55,6 +61,9 @@
     </a>
     <a href="https://postman.com" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" title="Postman"/> 
+    </a> 
+ <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://img.icons8.com/?size=512&id=kg46nzoJrmTR&format=png" alt="postman" width="40" height="40" title="Express"/> 
     </a> 
       </p>
 <br>
