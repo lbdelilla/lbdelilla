@@ -31,7 +31,7 @@
         <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40" title="Jest Js"/> 
     </a> 
   <a href="https://www.mongodb.com/es" target="_blank" rel="noreferrer"> 
-        <img src="" alt="mongoDb" width="40" height="40" title="Mongo DB"/> 
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/768px-MongoDB_Logo.svg.png?20190626143224" alt="mongoDb" width="40" height="40" title="Mongo DB"/> 
     </a> 
   <a href="https://nodejs.org/es" target="_blank" rel="noreferrer"> 
         <img src="https://nodejs.org/static/images/logo.svg" alt="node Js " width="40" height="40" title="Node Js"/> 
