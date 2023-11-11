@@ -1,4 +1,4 @@
-<p align="center"><a href=""><img width="80%" alt="Hello, I'm Lucía Belén. a Full Stack Developer!" src="./assets/me-git-header.png" /></a></p>
+<p align="center"><a href=""><img width="80%" alt="Hello, I'm Lucía Belén. a Full Stack Developer!" src="./assets/me-header.png" /></a></p>
 
 <br>
 
