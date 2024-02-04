@@ -71,7 +71,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=lbdelilla&label=Profile%20views&color=0e75b6&style=flat" alt="lbdelilla" /> </p>
 <br>
 <p align="center">
-                                    - 🔭 I’m constanly working on new projects
+                                    - 🔭 I’m constantly working on new projects
 </p>
 <p align="center">
                                     - 👯 I’m looking to collaborate on anything that i can learn from!
